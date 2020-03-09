@@ -14,15 +14,11 @@ Hello, world! This is a demo post for `hugo-theme-novela`. Novela is built by th
 In my experience, the challenges that growing companies struggle with rarely stem from a lack of good ideas. Good ideas are everywhere.
 In my experience, the challenges that growing companies struggle with rarely stem from a lack of good ideas. Good ideas are everywhere.
 
-2132121123
-
-123213213
-
-123123213213 
+3
 
 123123
 
- In my experience, the challenges that growing companies struggle with rarely stem from a lack of good ideas. Good ideas are everywhere.
+In my experience, the challenges that growing companies struggle with rarely stem from a lack of good ideas. Good ideas are everywhere.
 
 In my experience, the challenges that growing companies struggle with rarely stem from a lack of good ideas. Good ideas are everywhere.
 
@@ -160,9 +156,5 @@ Strikethrough uses two tildes. ~~Scratch this.~~
 ⋅⋅⋅(This is contrary to the typical GFM line break behaviour, where trailing spaces are not required.)
 
 * Unordered list can use asterisks
-
-
 * Or minuses
-
-
 * Or pluses
